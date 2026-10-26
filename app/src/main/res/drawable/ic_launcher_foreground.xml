@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Motion lines representing speed / on the way -->
+    <path
+        android:fillColor="#FF6B00"
+        android:pathData="M24,42 L42,42 L38,46 L22,46 Z" />
+    <path
+        android:fillColor="#FF8A3D"
+        android:pathData="M20,49 L36,49 L33,52 L18,52 Z" />
+    <path
+        android:fillColor="#FF6B00"
+        android:pathData="M26,55 L40,55 L37,58 L24,58 Z" />
+
+    <!-- Delivery Truck Cargo Body in White -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M40,36 L70,36 C72,36 73,37 73,39 L73,61 C73,63 72,64 70,64 L67,64 C67,61.8 65.2,60 63,60 C60.8,60 59,61.8 59,64 L48,64 C48,61.8 46.2,60 44,60 C41.8,60 40,61.8 40,64 L40,36 Z" />
+
+    <!-- Truck Cab in Vibrant Orange -->
+    <path
+        android:fillColor="#FF6B00"
+        android:pathData="M73,43 L81,43 C82.5,43 83.5,44 84.2,45.5 L88,53 C88.5,54 89,55 89,56.5 L89,61 C89,63 88,64 86,64 L83,64 C83,61.8 81.2,60 79,60 C76.8,60 75,61.8 75,64 L73,64 L73,43 Z" />
+
+    <!-- Cab Window -->
+    <path
+        android:fillColor="#0A182F"
+        android:pathData="M75,46 L81,46 L84,52 L75,52 Z" />
+
+    <!-- Truck Wheels in Dark Navy with Orange Hubs -->
+    <!-- Wheel 1 -->
+    <path
+        android:fillColor="#0A182F"
+        android:pathData="M44,60 C46.2,60 48,61.8 48,64 C48,66.2 46.2,68 44,68 C41.8,68 40,66.2 40,64 C40,61.8 41.8,60 44,60 Z" />
+    <path
+        android:fillColor="#FF6B00"
+        android:pathData="M44,62.5 C44.8,62.5 45.5,63.2 45.5,64 C45.5,64.8 44.8,65.5 44,65.5 C43.2,65.5 42.5,64.8 42.5,64 C42.5,63.2 43.2,62.5 44,62.5 Z" />
+
+    <!-- Wheel 2 -->
+    <path
+        android:fillColor="#0A182F"
+        android:pathData="M63,60 C65.2,60 67,61.8 67,64 C67,66.2 65.2,68 63,68 C60.8,68 59,66.2 59,64 C59,61.8 60.8,60 63,60 Z" />
+    <path
+        android:fillColor="#FF6B00"
+        android:pathData="M63,62.5 C63.8,62.5 64.5,63.2 64.5,64 C64.5,64.8 63.8,65.5 63,65.5 C62.2,65.5 61.5,64.8 61.5,64 C61.5,63.2 62.2,62.5 63,62.5 Z" />
+
+    <!-- Wheel 3 -->
+    <path
+        android:fillColor="#0A182F"
+        android:pathData="M79,60 C81.2,60 83,61.8 83,64 C83,66.2 81.2,68 79,68 C76.8,68 75,66.2 75,64 C75,61.8 76.8,60 79,60 Z" />
+    <path
+        android:fillColor="#FF6B00"
+        android:pathData="M79,62.5 C79.8,62.5 80.5,63.2 80.5,64 C80.5,64.8 79.8,65.5 79,65.5 C78.2,65.5 77.5,64.8 77.5,64 C77.5,63.2 78.2,62.5 79,62.5 Z" />
+
+    <!-- Package Logo on Truck Body -->
+    <path
+        android:fillColor="#FF6B00"
+        android:pathData="M52,43 L60,43 L60,51 L52,51 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M55.5,43 L56.5,43 L56.5,51 L55.5,51 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M52,46.5 L60,46.5 L60,47.5 L52,47.5 Z" />
+
+    <!-- "OTW" Brand accent letters underneath or road mark -->
+    <path
+        android:fillColor="#FF8A3D"
+        android:pathData="M30,71 L88,71 L86,73 L28,73 Z" />
+</vector>
